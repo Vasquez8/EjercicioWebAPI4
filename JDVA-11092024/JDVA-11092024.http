@@ -1,0 +1,6 @@
+@JDVA_11092024_HostAddress = http://localhost:5054
+
+GET {{JDVA_11092024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JDVA-11092024.props" />
+</Project>
