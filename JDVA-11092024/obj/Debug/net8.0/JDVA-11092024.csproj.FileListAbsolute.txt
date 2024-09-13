@@ -31,3 +31,12 @@ C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\obj\Debug
 C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\obj\Debug\net8.0\JDVA-11092024.pdb
 C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\obj\Debug\net8.0\JDVA-11092024.genruntimeconfig.cache
 C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\obj\Debug\net8.0\ref\JDVA-11092024.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Web_API_practica4\JDVA-11092024\obj\Debug\net8.0\JDVA-11092024.sourcelink.json
